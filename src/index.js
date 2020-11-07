@@ -1,3 +1,5 @@
+import 'babel-polyfill';
+
 function component() {
   const element = document.createElement('div');
 
